@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""user class, subclass of BaseModel
+"""user class and subclass of BaseModel
 """
 
 from models.base_model import BaseModel
